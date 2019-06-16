@@ -1,0 +1,3 @@
+([('gui2',
+   '/Users/haymantmangla/Desktop/C/Machine/Combo_finder/dist/gui2',
+   'EXECUTABLE')],)
